@@ -5,6 +5,7 @@ import java.io.DataOutputStream;
 import java.net.InetAddress;
 import java.net.Socket;
 
+//programa con un cliente conectandose a servidor y recogiendo el numero de cliente 
 public class Prog3_1_Cliente {
 	
 	
